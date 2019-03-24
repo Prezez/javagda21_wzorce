@@ -2,7 +2,54 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77d2cd38-7710-48b3-b768-f44404d4204d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Behavioral/Observer/Zadanie1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Behavioral/Observer/Zadanie1/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Behavioral/Observer/Zadanie1/NewsStation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Behavioral/Observer/Zadanie1/Watcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Behavioral/Observer/Zadanie2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Behavioral/Observer/Zadanie2/News.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Behavioral/Observer/Zadanie2/NewsStation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Behavioral/Observer/Zadanie2/Watcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Structural/Decorator/Zadanie1/CustomPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Structural/Decorator/Zadanie1/IPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Structural/Decorator/Zadanie1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Structural/Decorator/Zadanie1/Pizzeria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Structural/Decorator/Zadanie1/SimplePizza.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Behavioral/Strategy/Zadanie1/Drukarka.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Behavioral/Strategy/Zadanie1/Drukarka.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Behavioral/Strategy/Zadanie1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Behavioral/Strategy/Zadanie1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Behavioral/Strategy/Zadanie1/strategies/FormatterInverter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Behavioral/Strategy/Zadanie1/strategies/FormatterInverter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Behavioral/Strategy/Zadanie1/strategies/FormatterLower.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Behavioral/Strategy/Zadanie1/strategies/FormatterLower.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Behavioral/Strategy/Zadanie1/strategies/FormatterSplitter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Behavioral/Strategy/Zadanie1/strategies/FormatterSplitter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Behavioral/Strategy/Zadanie1/strategies/FormatterTrim.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Behavioral/Strategy/Zadanie1/strategies/FormatterTrim.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Behavioral/Strategy/Zadanie1/strategies/FormatterUpper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Behavioral/Strategy/Zadanie1/strategies/FormatterUpper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Behavioral/Strategy/Zadanie1/strategies/IFormatterCzcionki.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Behavioral/Strategy/Zadanie1/strategies/IFormatterCzcionki.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Creational/AbstractFactory/Zadanie1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Creational/AbstractFactory/Zadanie1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Creational/AbstractFactory/Zadanie1/compPackage/AbstractPC.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Creational/AbstractFactory/Zadanie1/compPackage/AbstractPC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Creational/AbstractFactory/Zadanie1/compPackage/AppleMac.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Creational/AbstractFactory/Zadanie1/compPackage/AppleMac.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Creational/AbstractFactory/Zadanie1/compPackage/AsusPC.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Creational/AbstractFactory/Zadanie1/compPackage/AsusPC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Creational/AbstractFactory/Zadanie1/compPackage/COMPUTER_BRAND.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Creational/AbstractFactory/Zadanie1/compPackage/COMPUTER_BRAND.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Creational/AbstractFactory/Zadanie1/compPackage/HpPC.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Creational/AbstractFactory/Zadanie1/compPackage/HpPC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Creational/AbstractFactory/Zadanie1/compPackage/PcFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Creational/AbstractFactory/Zadanie1/compPackage/PcFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Creational/AbstractFactory/Zadanie1/compPackage/SamsungPC.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Creational/AbstractFactory/Zadanie1/compPackage/SamsungPC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Creational/AbstractFactory/Zadanie2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Creational/AbstractFactory/Zadanie2/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Creational/AbstractFactory/Zadanie2/bikePackage/Bike.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Creational/AbstractFactory/Zadanie2/bikePackage/Bike.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Creational/AbstractFactory/Zadanie2/bikePackage/BikeFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Creational/AbstractFactory/Zadanie2/bikePackage/BikeFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Creational/AbstractFactory/Zadanie2/bikePackage/TypRoweru.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Creational/AbstractFactory/Zadanie2/bikePackage/TypRoweru.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Creational/Builder/Zadanie1/GameCharacter$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Creational/Builder/Zadanie1/GameCharacter$Builder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Creational/Builder/Zadanie1/GameCharacter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Creational/Builder/Zadanie1/GameCharacter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Creational/Builder/Zadanie1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Creational/Builder/Zadanie1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Creational/Builder/Zadanie2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Creational/Builder/Zadanie2/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Creational/Builder/Zadanie2/Stamp$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Creational/Builder/Zadanie2/Stamp$Builder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Creational/Builder/Zadanie2/Stamp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Creational/Builder/Zadanie2/Stamp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Creational/Singleton/Zadanie1/Automat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Creational/Singleton/Zadanie1/Automat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Creational/Singleton/Zadanie1/Generator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Creational/Singleton/Zadanie1/Generator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Creational/Singleton/Zadanie1/IGeneratorTicketow.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Creational/Singleton/Zadanie1/IGeneratorTicketow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Creational/Singleton/Zadanie1/Internet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Creational/Singleton/Zadanie1/Internet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Creational/Singleton/Zadanie1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Creational/Singleton/Zadanie1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Creational/Singleton/Zadanie1/PostOffice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Creational/Singleton/Zadanie1/PostOffice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Creational/Singleton/Zadanie1/Rejestracja.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sda/javagda21/Creational/Singleton/Zadanie1/Rejestracja.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -15,100 +62,120 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Creational/Builder/Zadanie2/Stamp.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Behavioral/Observer/Zadanie2/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="92" column="31" selection-start-line="92" selection-start-column="31" selection-end-line="92" selection-end-column="31" />
+            <state relative-caret-position="153">
+              <caret line="9" column="21" selection-end-line="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Behavioral/Strategy/Zadanie1/strategies/IFormatterCzcionki.java">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Behavioral/Observer/Zadanie2/NewsStation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="12" column="24" selection-end-line="16" />
+              <folding>
+                <element signature="e#272#273#0" expanded="true" />
+                <element signature="e#321#322#0" expanded="true" />
+                <element signature="e#389#390#0" expanded="true" />
+                <element signature="e#454#455#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Behavioral/Observer/Zadanie2/Watcher.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="37" selection-end-line="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Structural/Decorator/Zadanie1/SimplePizza.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="121">
+              <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#250#251#0" expanded="true" />
+                <element signature="e#327#328#0" expanded="true" />
+                <element signature="e#403#404#0" expanded="true" />
+                <element signature="e#430#431#0" expanded="true" />
+                <element signature="e#476#477#0" expanded="true" />
+                <element signature="e#500#501#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Structural/Decorator/Zadanie1/CustomPizza.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Behavioral/Strategy/Zadanie1/strategies/FormatterUpper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
-              <folding>
-                <element signature="e#162#163#0" expanded="true" />
-                <element signature="e#189#190#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Behavioral/Strategy/Zadanie1/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+              <caret line="8" column="63" selection-start-line="8" selection-start-column="63" selection-end-line="8" selection-end-column="63" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#245#246#0" expanded="true" />
+                <element signature="e#291#292#0" expanded="true" />
+                <element signature="e#437#438#0" expanded="true" />
+                <element signature="e#461#462#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Behavioral/Strategy/Zadanie1/Drukarka.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Structural/Decorator/Zadanie1/Pizzeria.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+            <state relative-caret-position="170">
+              <caret line="10" column="43" lean-forward="true" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#120#121#0" expanded="true" />
+                <element signature="e#203#204#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Behavioral/Strategy/Zadanie1/strategies/FormatterLower.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
-              <folding>
-                <element signature="e#162#163#0" expanded="true" />
-                <element signature="e#189#190#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Behavioral/Strategy/Zadanie1/strategies/FormatterTrim.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-              <folding>
-                <element signature="e#161#162#0" expanded="true" />
-                <element signature="e#188#189#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Behavioral/Strategy/Zadanie1/strategies/FormatterInverter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Behavioral/Strategy/Zadanie1/strategies/FormatterSplitter.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Structural/Decorator/Zadanie1/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="41" lean-forward="true" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+            <state relative-caret-position="306">
+              <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Structural/Decorator/Zadanie1/IPizza.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Behavioral/Observer/Zadanie2/News.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -131,16 +198,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Zadanie1_Singleton/PostOffice.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Creational/Zadanie1_Singleton/PostOffice.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Creational/Singleton/PostOffice.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Creational/Singleton/Zadanie1/PostOffice.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Creational/Singleton/Zadanie1/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Creational/Singleton/Zadanie1/Generator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Creational/Singleton/Zadanie1/IGeneratorTicketow.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Creational/Singleton/Zadanie1/Automat.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Creational/Singleton/Zadanie1/Internet.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Creational/Singleton/Zadanie1/Rejestracja.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Creational/AbstractFactory/Car.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Creational/AbstractFactory/CarFactory.java" />
@@ -176,6 +233,22 @@
         <option value="$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Behavioral/Strategy/Zadanie1/strategies/FormatterInverter.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Behavioral/Strategy/Zadanie1/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Behavioral/Strategy/Zadanie1/strategies/FormatterSplitter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Behavioral/Observer/Zadanie1/Message.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Behavioral/Observer/Zadanie1/NewsStation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Behavioral/Observer/Zadanie1/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Behavioral/Observer/Zadanie2/Message.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Behavioral/Observer/Zadanie1/Watcher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Structural/Decorator/Zadanie1/Hero.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Structural/Decorator/Zadanie1/IPizza.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Structural/Decorator/Zadanie1/SimplePizza.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Behavioral/Observer/Zadanie2/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Behavioral/Observer/Zadanie2/News.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Behavioral/Observer/Zadanie2/NewsStation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Behavioral/Observer/Zadanie2/Watcher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Structural/Decorator/Zadanie1/CustomPizza.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Structural/Decorator/Zadanie1/Pizzeria.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Structural/Decorator/Zadanie1/Main.java" />
       </list>
     </option>
   </component>
@@ -185,13 +258,16 @@
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -232,7 +308,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="javagda21" type="462c0819:PsiDirectoryNode" />
-              <item name="Strategy" type="462c0819:PsiDirectoryNode" />
+              <item name="Behavioral" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WzorceProjektowe" type="b2602c69:ProjectViewProjectNode" />
@@ -241,8 +317,8 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="javagda21" type="462c0819:PsiDirectoryNode" />
-              <item name="Strategy" type="462c0819:PsiDirectoryNode" />
-              <item name="Zadanie1" type="462c0819:PsiDirectoryNode" />
+              <item name="Behavioral" type="462c0819:PsiDirectoryNode" />
+              <item name="Observer" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WzorceProjektowe" type="b2602c69:ProjectViewProjectNode" />
@@ -251,27 +327,46 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="javagda21" type="462c0819:PsiDirectoryNode" />
-              <item name="Strategy" type="462c0819:PsiDirectoryNode" />
+              <item name="Structural" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WzorceProjektowe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WzorceProjektowe" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="javagda21" type="462c0819:PsiDirectoryNode" />
+              <item name="Structural" type="462c0819:PsiDirectoryNode" />
+              <item name="Decorator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WzorceProjektowe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WzorceProjektowe" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="javagda21" type="462c0819:PsiDirectoryNode" />
+              <item name="Structural" type="462c0819:PsiDirectoryNode" />
+              <item name="Decorator" type="462c0819:PsiDirectoryNode" />
               <item name="Zadanie1" type="462c0819:PsiDirectoryNode" />
-              <item name="strategies" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553352914705" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553427789190" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="copyright" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="pl.sda.javagda21.Behavioral.Observer.Zadanie1" />
       <recent name="pl.sda.javagda21.Creational.AbstractFactory.Zadanie2" />
       <recent name="pl.sda.javagda21.Creational.AbstractFactory.Zadanie1" />
       <recent name="pl.sda.javagda21.Creational.AbstractFactory" />
@@ -289,7 +384,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
+  <component name="RunManager" selected="Application.Main (5)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pl.sda.javagda21.Creational.Builder.Zadanie1.Main" />
       <module name="WzorceProjektowe" />
@@ -329,12 +424,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.sda.javagda21.Creational.Singleton.Zadanie1.Main" />
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.sda.javagda21.Behavioral.Observer.Zadanie1.Main" />
       <module name="WzorceProjektowe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.sda.javagda21.Creational.Singleton.Zadanie1.*" />
+          <option name="PATTERN" value="pl.sda.javagda21.Behavioral.Observer.Zadanie1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.sda.javagda21.Structural.Decorator.Zadanie1.Main" />
+      <module name="WzorceProjektowe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.sda.javagda21.Structural.Decorator.Zadanie1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -357,10 +465,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -375,7 +484,8 @@
       <option name="presentableId" value="Default" />
       <updated>1553328579870</updated>
       <workItem from="1553328583960" duration="8372000" />
-      <workItem from="1553341223168" duration="9351000" />
+      <workItem from="1553341223168" duration="9496000" />
+      <workItem from="1553417899996" duration="7697000" />
     </task>
     <task id="LOCAL-00001" summary="Strategy added">
       <created>1553352897864</created>
@@ -388,13 +498,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17723000" />
+    <option name="totallyTimeSpent" value="25565000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -403,13 +513,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3289689" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -442,13 +552,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Creational/Singleton/Zadanie1/PostOffice.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -643,70 +746,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Creational/Builder/Zadanie2/Stamp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="92" column="31" selection-start-line="92" selection-start-column="31" selection-end-line="92" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Behavioral/Strategy/Zadanie1/strategies/FormatterTrim.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-          <folding>
-            <element signature="e#161#162#0" expanded="true" />
-            <element signature="e#188#189#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Behavioral/Strategy/Zadanie1/strategies/FormatterUpper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
-          <folding>
-            <element signature="e#162#163#0" expanded="true" />
-            <element signature="e#189#190#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Behavioral/Strategy/Zadanie1/strategies/IFormatterCzcionki.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Behavioral/Strategy/Zadanie1/Drukarka.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Behavioral/Strategy/Zadanie1/strategies/FormatterLower.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
-          <folding>
-            <element signature="e#162#163#0" expanded="true" />
-            <element signature="e#189#190#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Behavioral/Strategy/Zadanie1/strategies/FormatterInverter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/AbstractStringBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="229">
@@ -718,9 +757,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Creational/Builder/Zadanie2/Stamp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1564">
+          <caret line="92" column="31" selection-start-line="92" selection-start-column="31" selection-end-line="92" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Behavioral/Strategy/Zadanie1/strategies/IFormatterCzcionki.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Behavioral/Strategy/Zadanie1/strategies/FormatterUpper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Behavioral/Strategy/Zadanie1/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
+        <state relative-caret-position="153">
           <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -728,10 +788,182 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Behavioral/Strategy/Zadanie1/Drukarka.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Behavioral/Strategy/Zadanie1/strategies/FormatterLower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Behavioral/Strategy/Zadanie1/strategies/FormatterTrim.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Behavioral/Strategy/Zadanie1/strategies/FormatterInverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Behavioral/Observer/Zadanie1/NewsStation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Behavioral/Strategy/Zadanie1/strategies/FormatterSplitter.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="45" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Behavioral/Observer/Zadanie1/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Behavioral/Observer/Zadanie1/Watcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="26" selection-start-line="1" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Behavioral/Observer/Zadanie1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Structural/Decorator/Zadanie1/Hero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Structural/Decorator/Zadanie1/IPizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Structural/Decorator/Zadanie1/SimplePizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#430#431#0" expanded="true" />
+            <element signature="e#476#477#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Behavioral/Observer/Zadanie2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="41" lean-forward="true" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+          <caret line="9" column="21" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Behavioral/Observer/Zadanie2/News.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Behavioral/Observer/Zadanie2/NewsStation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="12" column="24" selection-end-line="16" />
+          <folding>
+            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Behavioral/Observer/Zadanie2/Watcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="37" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Structural/Decorator/Zadanie1/CustomPizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="8" column="63" selection-start-line="8" selection-start-column="63" selection-end-line="8" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Structural/Decorator/Zadanie1/Pizzeria.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="43" lean-forward="true" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+          <folding>
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#203#204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javagda21/Structural/Decorator/Zadanie1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
         </state>
       </provider>
     </entry>
